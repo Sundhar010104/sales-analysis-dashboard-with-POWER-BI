@@ -8,7 +8,7 @@ The dashboard helps analyze sales performance across different markets, customer
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analysis Dashboard](dashboard.png)
+![Sales Analysis Dashboard](Screenshot%202026-09-28%20144638.png)
 
 ## 📈 Key KPIs
 
