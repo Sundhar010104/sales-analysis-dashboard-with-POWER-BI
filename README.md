@@ -79,5 +79,5 @@ The main objective of this project is to demonstrate how **Power BI can be used 
 sales-analysis-dashboard-with-POWER-BI/
 │
 ├── sales analysis.pbix
-├── dashboard.png
+├── Screenshot%202026-09-28%20144638.png
 └── README.md
